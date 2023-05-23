@@ -1,0 +1,36 @@
+body {
+    background: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    background:linear-gradient(rgb(70, 152, 235), teal);
+    color: white;
+    padding: 5px;
+}
+
+
+.border {
+    margin: 2%;
+    padding: 2%;
+    border-color: teal;
+    
+    
+}
+
+.form-input {
+    width: 100%;
+}
+
+.btn {
+    margin-top: 2%;
+    width: 100%;
+
+}
+
+.history-btn {
+    width: 100%;
+    margin: 1%;
+    background: teal;
+    color: white
+}
