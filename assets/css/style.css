@@ -1,19 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@300&family=Spectral&display=swap');
+:root {
+    /* adding variable to consolidate repeatative code for some elements */
+    --defaultwhite: #ffffff;
+   
+}
+
 body {
-    background: white;
-    font-family: Arial, Helvetica, sans-serif;
+    background: var(--defaultwhite);
+    font-family: 'Commissioner', sans-serif;
 }
 
 .header {
-    background:linear-gradient(rgb(70, 152, 235), teal);
-    color: white;
+    background:linear-gradient(rgb(19, 131, 244), rgb(11, 11, 137));
+    color: var(--defaultwhite);
     padding: 5px;
+    font-family:'Spectral', serif;
 }
 
 
 .border {
     margin: 2%;
     padding: 2%;
-    border-color: teal;
+    border-color: rgb(47, 5, 163);
     
     
 }
@@ -25,12 +33,13 @@ body {
 .btn {
     margin-top: 2%;
     width: 100%;
+    background-color:  rgb(11, 11, 137);
 
 }
 
 .history-btn {
     width: 100%;
     margin: 1%;
-    background: teal;
-    color: white
+    background: rgb(97, 139, 232);
+    color: var(--defaultwhite)
 }
