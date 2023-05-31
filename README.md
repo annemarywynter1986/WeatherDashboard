@@ -15,8 +15,14 @@ Deployed URL:  https://annemarywynter1986.github.io/WeatherDashboard/
 ## Summary
 
 HTML and CSS and Javascript documents create  Weather Dashboard application with dynamic search of desired city/location and weather.
+![image](https://github.com/annemarywynter1986/WeatherDashboard/assets/130412307/ba26fde8-2029-49e3-8500-dbb2d29c133d)
+
 
  This application has header, search field and button , dynamically generated cards for 5 days of the weather for city of search, search history utilizing local storage and displayed on the application for easy naviagtion back for user 
+ 
+ ![image](https://github.com/annemarywynter1986/WeatherDashboard/assets/130412307/945b75e0-a3e8-4a92-8554-34bd0eff61a7)
+
+ 
 This project emphasizes the use of using Javascript with API to make dynamic changes to HMTL and CSS documents
 
 ## This project has the following features:
